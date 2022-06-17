@@ -1,10 +1,18 @@
 ## Official Website
 # https://repo.bioarchlinux.org/$arch
 
+## Austrilia
+### xTom
+# https://mirrors.xtom.au/bioarchlinux/$arch
+
 ## China
 ### Nanjing University
 # http://mirror.nju.edu.cn/bioarchlinux/$arch
 # https://mirror.nju.edu.cn/bioarchlinux/$arch
+
+## China (HongKong)
+### xTom
+# https://mirrors.xtom.hk/bioarchlinux/$arch
 
 ## Estonia
 ### xTom
@@ -17,3 +25,11 @@
 ## Japan
 ### xTom
 # https://mirrors.xtom.jp/bioarchlinux/$arch
+
+## Netherland
+### xTom
+# https://mirrors.xtom.nl/bioarchlinux/
+
+## United States
+### xTom
+# https://mirrors.xtom.com/bioarchlinux/$arch
