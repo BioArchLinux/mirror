@@ -1,41 +1,41 @@
 ## Official Website
-# https://repo.bioarchlinux.org/$arch
+# Server = https://repo.bioarchlinux.org/$arch
 
 ## Australia
 ### xTom
-# https://mirrors.xtom.au/bioarchlinux/$arch
+# Server = https://mirrors.xtom.au/bioarchlinux/$arch
 
 ## China
 ### Nanjing University
-# http://mirror.nju.edu.cn/bioarchlinux/$arch
-# https://mirror.nju.edu.cn/bioarchlinux/$arch
+# Server = http://mirror.nju.edu.cn/bioarchlinux/$arch
+# Server = https://mirror.nju.edu.cn/bioarchlinux/$arch
 ### Nanjing University of Posts and Telecommunications
-# http://mirrors.njupt.edu.cn/bioarchlinux/$arch
-# https://mirrors.njupt.edu.cn/bioarchlinux/$arch
+# Server = http://mirrors.njupt.edu.cn/bioarchlinux/$arch
+# Server = https://mirrors.njupt.edu.cn/bioarchlinux/$arch
 ### Shandong University
-# http://mirrors.sdu.edu.cn/bioarchlinux/$arch
-# https://mirrors.sdu.edu.cn/bioarchlinux/$arch
+# Server = http://mirrors.sdu.edu.cn/bioarchlinux/$arch
+# Server = https://mirrors.sdu.edu.cn/bioarchlinux/$arch
 
 ## China (HongKong)
 ### xTom
-# https://mirrors.xtom.hk/bioarchlinux/$arch
+# Server = https://mirrors.xtom.hk/bioarchlinux/$arch
 
 ## Estonia
 ### xTom
-# https://mirrors.xtom.ee/bioarchlinux/$arch
+# Server = https://mirrors.xtom.ee/bioarchlinux/$arch
 
 ## Germany
 ### xTom
-# https://mirrors.xtom.de/bioarchlinux/$arch
+# Server = https://mirrors.xtom.de/bioarchlinux/$arch
 
 ## Japan
 ### xTom
-# https://mirrors.xtom.jp/bioarchlinux/$arch
+# Server = https://mirrors.xtom.jp/bioarchlinux/$arch
 
 ## Netherland
 ### xTom
-# https://mirrors.xtom.nl/bioarchlinux/
+# Server = https://mirrors.xtom.nl/bioarchlinux/
 
 ## United States
 ### xTom
-# https://mirrors.xtom.com/bioarchlinux/$arch
+# Server = https://mirrors.xtom.com/bioarchlinux/$arch
