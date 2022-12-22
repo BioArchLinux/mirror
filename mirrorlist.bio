@@ -29,6 +29,7 @@
 ## Germany
 ### xTom
 # Server = https://mirrors.xtom.de/bioarchlinux/$arch
+# Server = https://mirror.sunred.org/bioarchlinux/$arch
 
 ## Japan
 ### xTom
@@ -36,7 +37,7 @@
 
 ## Netherland
 ### xTom
-# Server = https://mirrors.xtom.nl/bioarchlinux/
+# Server = https://mirrors.xtom.nl/bioarchlinux/$arch
 
 ## United States
 ### xTom
