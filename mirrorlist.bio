@@ -6,6 +6,8 @@
 # Server = https://mirrors.xtom.au/bioarchlinux/$arch
 
 ## China
+### ISCAS
+# Server = https://mirror.iscas.ac.cn/BioArchLinux/$arch
 ### Nanjing University
 # Server = http://mirror.nju.edu.cn/bioarchlinux/$arch
 # Server = https://mirror.nju.edu.cn/bioarchlinux/$arch
@@ -27,10 +29,10 @@
 # Server = https://mirrors.xtom.ee/bioarchlinux/$arch
 
 ## Germany
-### xTom
-# Server = https://mirrors.xtom.de/bioarchlinux/$arch
 ### sunred
 # Server = https://mirror.sunred.org/bioarchlinux/$arch
+### xTom
+# Server = https://mirrors.xtom.de/bioarchlinux/$arch
 
 ## Japan
 ### xTom
