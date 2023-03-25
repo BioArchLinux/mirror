@@ -17,8 +17,6 @@ Server = https://mirrors.njupt.edu.cn/bioarchlinux/$arch
 ## Shandong University
 Server = http://mirrors.sdu.edu.cn/bioarchlinux/$arch
 Server = https://mirrors.sdu.edu.cn/bioarchlinux/$arch
-## Xi'an Jiaotong University
-Server = https://mirrors.xjtu.edu.cn/bioarchlinux/$arch
 
 # China (HongKong)
 ## xTom
