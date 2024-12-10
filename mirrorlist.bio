@@ -3,7 +3,7 @@ Server = https://repo.bioarchlinux.org/$arch
 
 # Australia
 ## AARNet
-https://mirror.aarnet.edu.au/pub/bioarchlinux/$arch
+Server = https://mirror.aarnet.edu.au/pub/bioarchlinux/$arch
 ## xTom
 Server = https://mirrors.xtom.au/bioarchlinux/$arch
 
